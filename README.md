@@ -1,2 +1,2 @@
 # nsu-ml-1
-Homeworks from NSU ML courses 
+Homeworks from NSU ML course
