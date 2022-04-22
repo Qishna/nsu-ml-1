@@ -1,4 +1,4 @@
-# nsu-ml-1
+# Machine learning
 Homeworks from NSU ML course
 
 ### Course map
